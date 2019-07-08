@@ -9,5 +9,5 @@ set "ENCRYPTION=!ENCRYPTION:%%C=-%%N!"
 )
 )
 echo !ENCRYPTION!
-start justsome.bat !ENCRYPTION!
+start decrypt.bat !ENCRYPTION!
 exit
