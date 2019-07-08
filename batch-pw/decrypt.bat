@@ -57,5 +57,5 @@ goto start
 
 :correct
 cls
-start Bingo.bat %PASSWORD1%
+start encrypt.bat %PASSWORD1%
 exit
